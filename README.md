@@ -99,12 +99,16 @@ best.nround = 1010
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/feature.JPG?raw=true)
 
 ## 5.3 training error
+The confusion matrix is:
+
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train1.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train2.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train3.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train4.JPG?raw=true)
 
 ## 5.4 testing error
+The confusion matrix is:
+
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test1.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test2.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test3.JPG?raw=true)
