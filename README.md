@@ -26,11 +26,17 @@ We’re also encouraging you to explore the dataset visually. What can we learn 
 
 # 2 讀取packages
 ## 2.1 讀取資料
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/load%20data.JPG?raw=true)
 
 # 3 整理資料
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/%E6%95%B4%E7%90%86%E8%B3%87%E6%96%99.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-3-1.png?raw=true)
 
 ## 3.1 find outlier
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-4-1.png?raw=true)
+
 ## 3.2 切割時間跟dummy variable
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/dummy.JPG?raw=true)
 
 # 4 分析資料
 ## 4.1 method-PCA
