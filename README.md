@@ -79,10 +79,24 @@ We’re also encouraging you to explore the dataset visually. What can we learn 
 
 # 5 XGBOOST
 ## 5.1 設定data及參數
-
+---------
+xgb_params=list(    
+  objective="multi:softmax",
+  booster="gbtree",
+  eta= 0.1, 
+  max_depth= 6, 
+  colsample_bytree= 0.7,
+  subsample = 0.7,
+  num_class = 20,
+  seed =221)
+best.nround = 1010
+--------
 ## 5.2 building model
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/model%20logloss.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/feature.JPG?raw=true)
 
 ## 5.3 training error
+
 
 ## 5.4 testing error
 
