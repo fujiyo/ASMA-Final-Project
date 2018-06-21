@@ -80,6 +80,7 @@ We’re also encouraging you to explore the dataset visually. What can we learn 
 # 5 XGBOOST
 ## 5.1 設定data及參數
 ---------
+
 xgb_params=list(    
   objective="multi:softmax",
   booster="gbtree",
@@ -89,18 +90,31 @@ xgb_params=list(
   subsample = 0.7,
   num_class = 20,
   seed =221)
+  
 best.nround = 1010
+
 --------
 ## 5.2 building model
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/model%20logloss.JPG?raw=true)
 ![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/feature.JPG?raw=true)
 
 ## 5.3 training error
-
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train1.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train2.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train3.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.train4.JPG?raw=true)
 
 ## 5.4 testing error
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test1.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test2.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test3.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/confu.test4.JPG?raw=true)
 
 # 6 地圖
+
+Category is "DRUNKENNESS"
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/Rplot.png?raw=true)
+
 
 # 7 結論&反思
 +  從圖表看出年月星期幾對於犯罪總數沒有很明顯的變化，但是小時對於犯罪總數有很明顯的在凌晨兩點到六點犯罪總數比其他時間點減少，中午十一點到十二點以及晚餐時間六點到八點犯罪總數提高，所以，藉由這些圖表，可以讓警方作為參考，在犯罪總數較高的時間，加強巡邏。
@@ -111,3 +125,4 @@ best.nround = 1010
 
 # 8 Q&A
 
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/01.jpg?raw=true)
