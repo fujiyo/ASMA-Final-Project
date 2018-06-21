@@ -40,18 +40,42 @@ We’re also encouraging you to explore the dataset visually. What can we learn 
 
 # 4 分析資料
 ## 4.1 method-PCA
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-6-1.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-6-2.png?raw=true)
 
 ## 4.2 method2-histogram of variable
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-7-1.png?raw=true)
 
 ## 4.3 line chart
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/legend.JPG?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-8-2.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-8-3.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-8-4.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-8-5.png?raw=true)
 
 ## 4.4 每年轄區對應的犯罪類型
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-9-1.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-9-2.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-9-3.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-9-4.png?raw=true)
 
 ## 4.5 每月轄區對應的犯罪類型
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-10-1.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-10-2.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-10-3.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-10-4.png?raw=true)
 
 ## 4.6 星期幾轄區對應的犯罪類型
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-11-1.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-11-2.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-11-3.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-11-4.png?raw=true)
 
 ## 4.7 每小時轄區對應的犯罪類型
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-12-1.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-12-2.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-12-3.png?raw=true)
+![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/unnamed-chunk-12-4.png?raw=true)
 
 # 5 XGBOOST
 ## 5.1 設定data及參數
