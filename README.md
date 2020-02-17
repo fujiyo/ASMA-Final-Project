@@ -127,6 +127,3 @@ Category is "DRUNKENNESS"
 
 +  希望可以在深入探討藉由地圖看出犯罪類型在地理上的分布及變化。(也可以根據時間在地圖上看到變化)
 
-# 8 Q&A
-
-![image](https://github.com/fujiyo/ASMA-Final-Project/blob/master/figure-html/01.jpg?raw=true)
